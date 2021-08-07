@@ -1,0 +1,26 @@
+{
+  "name": "usetoggle",
+  "version": "1.0.0",
+  "description": "simple toggle hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asci/useToggle.git"
+  },
+  "keywords": [
+    "useToggle",
+    "toggle"
+  ],
+  "author": "asci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asci/useToggle/issues"
+  },
+  "homepage": "https://github.com/asci/useToggle#readme",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
